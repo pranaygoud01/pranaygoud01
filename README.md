@@ -6,8 +6,8 @@ Enthusiastic Software Engineer with expertise in Java, React.js, and Node.js, ea
 ---
 
 ### 🚀 **What I'm Currently Working On**
-- Frontend Developer Intern at **NITK**
-- Enhancing my expertise in **Next.js and Tailwind CSS**
+- Frontend Developer Intern at **NITK** and **Kribud webtech**
+- Enhancing my expertise in **MERN and Tailwind CSS**
 - Building interactive and scalable web applications
 
 ### 👨‍💻 **Portfolio & Projects**
