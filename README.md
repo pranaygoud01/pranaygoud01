@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranay Goud</h1>
 <h3 align="center">Passionate Frontend Developer | Creating Seamless User Experiences</h3>
 
-I am a frontend developer with experience in building responsive web applications using **Next.js, React.js, JavaScript, HTML, and Tailwind CSS**. As a **Frontend Developer Intern at NITK**, I focus on developing interactive and scalable solutions. I thrive on transforming ideas into engaging designs and continuously exploring new technologies. Open to exciting opportunities where I can contribute and grow.  
+Enthusiastic Software Engineer with expertise in Java, React.js, and Node.js, eager to build scalable and efficient web applications while continuously learning and contributing to innovative solutions. Passionate about problem-solving, optimizing performance, and delivering seamless user experiences in dynamic environments 
 
 ---
 
